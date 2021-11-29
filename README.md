@@ -1,5 +1,5 @@
 # Homework: Mixture of Communication Pattern
-# By Ting-Hao Ling (NTU student ID B07901040)
+- By Ting-Hao Ling (NTU student ID B07901040)
 
 # Function
 - Given the order, find corresponding fibonacci number
