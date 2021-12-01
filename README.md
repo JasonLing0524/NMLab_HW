@@ -1,6 +1,10 @@
 # Homework: Mixture of Communication Pattern
 - By Ting-Hao Ling (NTU student ID B07901040)
 
+# Video
+
+- https://youtu.be/yRz4yLP_558
+
 # Function
 - Given the order, find corresponding fibonacci number
 - show the search history
