@@ -23,7 +23,7 @@
 # Install grpc packages
 $ pip3 install -r requirements.txt
 ```
-- - Run the backend server
+- Run the backend server
 ```bash
 $ python3 manage.py runserver 0.0.0.0:8000
 ```
